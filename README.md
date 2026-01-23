@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanu Dhumal</h1>
-<h3 align="center">A passionate Data Scientist from Pune, India</h3>
+<h3 align="center">AI & Data Science undergrad Turning ideas into code using Python, ML & Web Dev
+Improving Everyday!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
