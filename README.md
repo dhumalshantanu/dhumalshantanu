@@ -1,6 +1,6 @@
 <h1 align="center">⚙️Hi, I'm Shantanu Dhumal</h1>
 <h3 align="center">AI & Data Science undergrad Turning ideas into code using Python, ML & Web Dev</h3>
-<h3 align="center">📈Improving Everyday!</h3>
+<h3 align="center">📈Improving Everyday!</h3> 
 
 <h4>I am a highly motivated B.Tech student in Artificial Intelligence and Data Science with a strong passion for data analytics, machine learning, and building data driven solutions. I enjoy working with complex datasets to extract meaningful insights and present them through clear visualizations and well structured reports. My academic background and hands on project experience have helped me develop a solid foundation in data analysis, machine learning, and full stack web technologies.</h4> 
 
