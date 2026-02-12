@@ -3,7 +3,7 @@
 <h3 align="center">📈Improving Everyday !</h3>  
 
 <h4>I am a highly motivated B.Tech student in Artificial Intelligence and Data Science with a strong passion for data analytics, machine learning, and building data driven solutions. I enjoy working with complex datasets to extract meaningful insights and present them through clear visualizations and well structured reports. My academic background and hands on project experience have helped me develop a solid foundation in data analysis, machine learning, and full stack web technologies.</h4> 
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shantanu-dhumal-44a44a289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shantanu-dhumal-44a44a289" height="30" width="40" /></a>
