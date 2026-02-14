@@ -55,29 +55,3 @@ I enjoy working with complex datasets, extracting insights, and presenting them 
 </p>
 
 
-<!-- ================= VIEWS ================= -->
-
-<!-- ================= PROFILE VIEWS ================= -->
-
-<h2 align="center">🌐 Profile Visitors</h2>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shantanu2005&label=👁️‍🗨️+Visitors&color=0e75b6&style=for-the-badge" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/github/followers/shantanu2005?label=Followers&style=for-the-badge&color=ff69b4" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/github/stars/shantanu2005?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=facc15" />
-
-</p>
-
-<p align="center">
-<i>✨ Building • Learning • Growing Everyday ✨</i>
-</p>
-
----
-
