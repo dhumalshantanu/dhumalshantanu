@@ -2,7 +2,7 @@
 
 <h3 align="center">
 AI & Data Science Undergrad • Turning Ideas into Code  
-</h3>
+</h3> 
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning;Data+Analytics;Full+Stack;Always+Improving" />
