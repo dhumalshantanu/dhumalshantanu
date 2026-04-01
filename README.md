@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Hi, I'm Shantanu Dhumal</h1> 
+<h1 align="center">⚙️ Hi, I'm Shantanu Dhumal</h1>  
 
 <h3 align="center"> 
 AI & Data Science Undergrad • Turning Ideas into Code 
